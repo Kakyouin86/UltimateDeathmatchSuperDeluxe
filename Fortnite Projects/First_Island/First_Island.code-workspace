@@ -1,0 +1,58 @@
+{
+    "folders": [
+        {
+            "name": "/invaliddomain/First_Island",
+            "path": "C:/Leo/UltimateDeathmatchSuperDeluxe/Fortnite Projects/First_Island/Content"
+        },
+        {
+            "name": "/invaliddomain/First_Island (Assets)",
+            "path": "C:/Users/Leo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/First_Island/First_Island-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/Leo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/First_Island/vproject"
+        },
+        {
+            "name": "/Verse.org",
+            "path": "C:/Users/Leo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/First_Island/Verse"
+        },
+        {
+            "name": "/UnrealEngine.com",
+            "path": "C:/Users/Leo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/First_Island/UnrealEngine"
+        },
+        {
+            "name": "/Fortnite.com",
+            "path": "C:/Users/Leo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/First_Island/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
