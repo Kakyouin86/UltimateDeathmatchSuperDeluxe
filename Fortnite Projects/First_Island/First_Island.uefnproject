@@ -22,15 +22,15 @@
 	{
 		"matchmaking":
 		{
-			"maxPlayers": 16,
-			"maxTeamCount": 1,
-			"maxTeamSize": 16,
-			"maxSocialPartySize": 16,
+			"maxPlayers": 10,
+			"maxTeamCount": 2,
+			"maxTeamSize": 5,
+			"maxSocialPartySize": 10,
 			"allowJoinInProgress": true,
 			"allowSquadFillOption": false,
-			"islandQueuePrivacy": "Public",
-			"minPlayers": 1,
-			"overtimePlayerTarget": 1,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 2,
+			"overtimePlayerTarget": 2,
 			"queueMainDuration": 5,
 			"queueOvertimeDuration": 5,
 			"useSkillBasedMatchmaking": false,
